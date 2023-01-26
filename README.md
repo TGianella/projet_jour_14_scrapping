@@ -25,5 +25,5 @@ A few web scrapers for practice.
 
 ## Authors
 
-ex. Théo Gianella  
+ Théo Gianella  
 
